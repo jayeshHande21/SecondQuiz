@@ -1,4 +1,4 @@
-# QUIZ! -How well do you know me? 
+# QUIZ! -GOT FAN? 
 
 *A fun CLI app made using JavaScript!*
 
